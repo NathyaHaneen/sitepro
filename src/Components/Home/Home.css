@@ -1,0 +1,12 @@
+#root {
+    background-image: url("/src/Components/assets/bg-img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: max-content;
+}
+
+.home-info {
+    height: 100vh;
+}
